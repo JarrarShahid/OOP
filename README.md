@@ -106,7 +106,7 @@ OOP/
 ### 🔧 Setup  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/OOP.git
+   git clone https://github.com/JarrarShahid/OOP.git
    cd OOP-Python-Showcase
    ```
 2. Create a virtual environment (optional but recommended):  
