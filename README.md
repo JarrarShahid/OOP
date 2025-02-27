@@ -1,4 +1,4 @@
-# OOP-Python-Showcase 🚀  
+# OOP 🚀  
 A **comprehensive** repository showcasing **Object-Oriented Programming (OOP) in Python**, including **fundamental concepts, SOLID principles, design patterns, real-world applications, and advanced topics**.  
 
 ## 📌 Features  
@@ -18,7 +18,7 @@ A **comprehensive** repository showcasing **Object-Oriented Programming (OOP) in
 ## 📂 Folder Structure  
 
 ```
-OOP-Python-Showcase/
+OOP/
 │── README.md                 # Overview of the repo and concepts covered
 │── requirements.txt          # List of dependencies
 │── main.py                   # Entry point for OOP demonstration
@@ -106,7 +106,7 @@ OOP-Python-Showcase/
 ### 🔧 Setup  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/OOP-Python-Showcase.git
+   git clone https://github.com/yourusername/OOP.git
    cd OOP-Python-Showcase
    ```
 2. Create a virtual environment (optional but recommended):  
