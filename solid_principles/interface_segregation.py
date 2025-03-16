@@ -1,5 +1,3 @@
-# interface_segregation.py
-
 from abc import ABC, abstractmethod
 
 # Separate interfaces
