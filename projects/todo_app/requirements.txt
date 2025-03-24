@@ -1,0 +1,3 @@
+# requirements.txt
+
+# No external dependencies needed, but add if required
