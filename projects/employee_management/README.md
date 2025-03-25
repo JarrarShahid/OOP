@@ -12,10 +12,10 @@ This is an **object-oriented** Employee Management System built using **Python**
 ## Installation  
 
 1. **Clone the Repository**  
-   ```sh
-   git clone https://github.com/JarrarShahid/OOP.git
-   cd OOP-Python-Showcase/projects/employee_management
-   ```
+```sh
+git clone https://github.com/JarrarShahid/OOP.git
+cd OOP-Python-Showcase/projects/employee_management
+```
 
 2. **Create a Virtual Environment (Optional but Recommended)**
 ```sh
@@ -52,13 +52,16 @@ employee_management/
 ```
 
 ## Dependencies
-Python 3.8+
+🚀 Python 3.8+
 
-SQLAlchemy (For database interactions)
+🚀 SQLAlchemy (For database interactions)
 
-SQLite (Default database, can be changed to PostgreSQL)
+🚀 SQLite (Default database, can be changed to PostgreSQL)
 
 ## Future Enhancements
+
 🚀 GUI Version (Tkinter/PyQt)
+
 🚀 PostgreSQL Support
+
 🚀 Employee Search & Filtering
