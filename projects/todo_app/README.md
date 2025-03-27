@@ -27,14 +27,7 @@ cd projects/todo_app/
 ```
 2️⃣ Run the CLI app
 
-```
+```sh
 python main.py
 ```
 
-## 🛠 Future Improvements
-
-🔹 SQLite or PostgreSQL Storage
-
-🔹 GUI (Tkinter/PyQt)
-
-🔹 Web App (Flask/FastAPI)

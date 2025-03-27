@@ -58,10 +58,4 @@ employee_management/
 
 🚀 SQLite (Default database, can be changed to PostgreSQL)
 
-## Future Enhancements
 
-🚀 GUI Version (Tkinter/PyQt)
-
-🚀 PostgreSQL Support
-
-🚀 Employee Search & Filtering
